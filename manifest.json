@@ -1,0 +1,14 @@
+{
+    "name": "PWA",
+    "short_name": "PWA",
+    "start_url": "/?home=true",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "gh512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
