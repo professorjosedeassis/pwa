@@ -1,7 +1,7 @@
 {
     "name": "PWA",
     "short_name": "PWA",
-    "start_url": "/?home=true",
+    "start_url": "/",
     "display": "standalone",
     "orientation": "portrait",
     "icons": [
