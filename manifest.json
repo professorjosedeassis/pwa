@@ -1,9 +1,9 @@
 {
   "name": "Web app",
   "short_name": "PWA",
-  "start_url": "/", // /pwa/
-  "display": "standalone", //fullscreen, minimal-ui, browser
-  //"orientation": "portrait",
+  "start_url": "/pwa/",
+  "display": "standalone",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "hal192.png",
